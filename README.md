@@ -1,2 +1,2 @@
 # GitHub
-GitHub Tutorial
+GitHub Tutorial to learn different git commands. 
